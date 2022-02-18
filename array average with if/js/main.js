@@ -13,5 +13,6 @@ if (grades.length > 0){
   
   document.write(sum/count);
 }
-else
+else{
   document.write("Empty Array");
+}
