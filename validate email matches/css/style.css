@@ -1,0 +1,6 @@
+input:focus{
+    background-color: #ebebeb;
+}
+label{
+    display: block;
+}
